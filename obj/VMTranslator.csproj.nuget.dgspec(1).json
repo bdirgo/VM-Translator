@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/benjamindirgo/Desktop/nand2tetris/projects/07/VMTranslator/VMTranslator.csproj": {}
+  },
+  "projects": {
+    "/Users/benjamindirgo/Desktop/nand2tetris/projects/07/VMTranslator/VMTranslator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/benjamindirgo/Desktop/nand2tetris/projects/07/VMTranslator/VMTranslator.csproj",
+        "projectName": "VMTranslator",
+        "projectPath": "/Users/benjamindirgo/Desktop/nand2tetris/projects/07/VMTranslator/VMTranslator.csproj",
+        "packagesPath": "/Users/benjamindirgo/.nuget/packages/",
+        "outputPath": "/Users/benjamindirgo/Desktop/nand2tetris/projects/07/VMTranslator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/benjamindirgo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
